@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-## Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
@@ -50,6 +50,8 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+# A new H1
 
 ### :keyboard: Activity: Edit your file with headers
 
